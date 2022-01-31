@@ -1,7 +1,7 @@
 @import "../../global.scss";
 
 .intro {
-  background-color: rgb(46, 43, 43);
+  background-color: white;
   display: flex;
 
   @include mobile{
@@ -16,10 +16,10 @@
     .imgContainer {
       width: 700px;
       height: 700px;
-      background-color: rgb(46, 43, 43);
-      // border-radius: 50%;
+      background-color: white;
+       border-radius: 10%;
       display: flex;
-      align-items: flex-start;
+      
       justify-content: center;
       float: right;
 
@@ -28,7 +28,7 @@
       }
 
       img {
-        height: 90%;
+        height: 80%;
 
         @include mobile{
           height: 50%;
@@ -56,7 +56,7 @@
       h1 {
         font-size: 60px;
         margin: 10px 0;
-        color: whitesmoke;
+        color: black;
 
         @include mobile{
           font-size: 40px;
@@ -64,7 +64,7 @@
       }
       h2 {
         font-size: 35px;
-        color: whitesmoke;
+        color: black;
       }
       h3 {
         font-size: 30px;
