@@ -5,6 +5,7 @@
   background-color: white;
 }
 
+
 .a-left {
   flex: 1;
   display: flex;
@@ -46,12 +47,19 @@
 }
 
 .a-title {
-  font-weight: 400;
+  
+  font-size: 60px;
+  margin: 10px 0;
+  color: black;
 }
 
 .a-sub {
-  margin: 20px 0px;
+  margin: 20px 10px;
+   color:rgb(39, 39, 39);
+
+  
 }
+
 
 .a-desc{
     font-weight: 300;

@@ -1,6 +1,8 @@
 import "./intro.scss";
 import { init } from "ityped";
 import { useEffect, useRef } from "react";
+import {Button} from 'react-bootstrap';
+
 
 export default function Intro() {
   const textRef = useRef();
@@ -10,7 +12,7 @@ export default function Intro() {
       showCursor: true,
       backDelay: 1500,
       backSpeed:60,
-      strings: ["Developer", "Student", "Content Creator"],
+      strings: ["Developer", "Student", "Competitive programmer"],
     });
   }, []);
 
@@ -28,11 +30,22 @@ export default function Intro() {
           <h3>
             <span ref={textRef}></span>
           </h3>
+          <br/>
+          <br/>
+        
         </div>
-
-        {/* <a href="#portfolio">
-          <img src="assets/down.png" alt="" />
-        </a> */}
+        <div className="buttons">
+          <div className="button" >
+            <a href="assets/myProfile.jpeg">See my resume</a></div>
+            
+            <div className="button2" >
+            <a href="assets/myProfile.jpeg">My linkedin</a></div>
+            </div>
+        
+        
+       
+      </div><div>
+   
       </div>
     </div>
   );
