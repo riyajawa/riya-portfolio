@@ -2,7 +2,7 @@
   height: 100vh;
   display: flex;
   align-items: center;
-  background-color: white;
+  background-color: crimson;
 }
 
 
@@ -23,7 +23,9 @@
   position: absolute;
   top: 50px;
   left: 50px;
-  background-color: crimson;
+  background-color: black;
+  box-shadow: 15px 10px 15px -8px black;
+    
 }
 
 .a-card {
@@ -32,6 +34,7 @@
   border-radius: 30px;
   position: relative;
   overflow: hidden;
+  box-shadow: 10px 10px 15px -8px black;
 }
 
 .a-img {
@@ -50,19 +53,21 @@
   
   font-size: 60px;
   margin: 10px 0;
-  color: black;
+  color: whitesmoke;
 }
 
 .a-sub {
   margin: 20px 10px;
-   color:rgb(39, 39, 39);
+   color:rgb(39, 36, 36);;
+   font-weight: 500;
 
   
 }
 
 
 .a-desc{
-    font-weight: 300;
+  margin: 20px 10px;
+    font-weight: 500;
 }
 
 .a-award{

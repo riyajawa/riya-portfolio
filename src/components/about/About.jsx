@@ -20,21 +20,14 @@ const About = () => {
           I am a frontend developer from India currently pursuing as Computer science engineer from Chitkara University,Punjab.
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+        Designer and developer devoted to crafting beautiful web experiences focused on simplicity and purpose
+I am passionate about building excellent software that improves the lives of those around me. I specialise in react.
+I love combining the worlds of logic and creative design to make eye catching , accessible, and user friendly websites applications.
+Technology leads, Society follows .
+The move towards increasing inclusivity and diversity in the industry through representation is of importance to me .
+I am excited to make the leap and continue refining my skills .
         </p>
-        <div className="a-award">
-         
-          <div className="a-award-texts">
-            <h4 className="a-award-title">International Design Awards 2021</h4>
-            <p className="a-award-desc">
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
-              and fugit.
-            </p>
-          </div>
-        </div>
+        
       </div>
     </div>
   );

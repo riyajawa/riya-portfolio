@@ -25,8 +25,8 @@ export default function Intro() {
       </div>
       <div className="right">
         <div className="wrapper">
-          <h2>Hi There, I'm</h2>
-          <h1>Riya</h1>
+          <h2>Hello World, I'm</h2>
+          <h1>RIYA</h1>
           <h3>
             <span ref={textRef}></span>
           </h3>
@@ -39,7 +39,7 @@ export default function Intro() {
             <a href="assets/myProfile.jpeg">See my resume</a></div>
             
             <div className="button2" >
-            <a href="assets/myProfile.jpeg">My linkedin</a></div>
+            <a href="https://www.linkedin.com/in/riya-jawa">My linkedin</a></div>
             </div>
         
         
