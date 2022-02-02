@@ -1,6 +1,6 @@
 import "./skills.scss";
 
-export default function Skills() {
+export default function Sills() {
   const data = [
     {
       id: 1,

@@ -8,7 +8,7 @@ import "./app.scss"
 import { useState } from "react";
 import Menu from "./components/menu/Menu";
 import About from "./components/about/About";
-import Skills from "./components/Skills/Skills";
+import Skills from "./components/skills/Skills";
 
 
 function App() {
