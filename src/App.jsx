@@ -22,10 +22,8 @@ function App() {
        <Intro/>
         <About/>
         <Skills/>
-       
         {/* <Works/> */}
         <Portfolio/> 
-      
        <Contact/>
       
       
