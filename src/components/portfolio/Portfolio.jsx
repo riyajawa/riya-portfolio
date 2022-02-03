@@ -23,14 +23,14 @@ export default function Portfolio() {
       id: "web_design",
       title: "Web Design",
     },
-    {
-      id: "design",
-      title: "Design",
-    },
-    {
-      id: "content",
-      title: "Content",
-    },
+    // {
+    //   id: "design",
+    //   title: "Design",
+    // },
+    // {
+    //   id: "content",
+    //   title: "Content",
+    // },
   ];
 
   useEffect(() => {
@@ -42,12 +42,12 @@ export default function Portfolio() {
       case "web_design":
         setData(webPortfolio);
         break;
-      case "design":
-        setData(designPortfolio);
-        break;
-      case "content":
-        setData(contentPortfolio);
-        break;
+      // case "design":
+      //   setData(designPortfolio);
+      //   break;
+      // case "content":
+      //   setData(contentPortfolio);
+      //   break;
       default:
         setData(Featured);
     }
