@@ -11,6 +11,7 @@ import About from "./components/about/About";
 import Skills from "./components/skills/Skills";
 
 
+
 function App() {
   const [menuOpen,setMenuOpen] = useState(false)
   return (
@@ -26,6 +27,8 @@ function App() {
         <Portfolio/> 
       
        <Contact/>
+      
+      
      </div>
     </div>
   );

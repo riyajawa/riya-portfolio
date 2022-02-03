@@ -26,7 +26,16 @@
     h2 {
       font-size: 30px;
     }
-
+    h1 {
+      font-size: 60px;
+      color: crimson;
+  }
+  p.hire__text{
+      font-size: 18px;
+      line-height: 30px;
+      color: rgba(29,29,36,.75);
+      font-weight: 400;
+  }
     form {
       width: 70%;
       height: 70%;
