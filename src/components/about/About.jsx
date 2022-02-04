@@ -17,7 +17,7 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          I am a frontend developer from India currently pursuing as Computer science engineer from Chitkara University,Punjab.
+          I am a frontend developer from India currently pursuing  Computer science engineer from Chitkara University,Punjab.
         </p>
         <p className="a-desc">
         Designer and developer devoted to crafting beautiful web experiences focused on simplicity and purpose
