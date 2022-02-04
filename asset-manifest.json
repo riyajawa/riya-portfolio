@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/riya-portfolio/static/css/main.8e3dcfb1.css",
-    "main.js": "/riya-portfolio/static/js/main.e631bfa1.js",
+    "main.js": "/riya-portfolio/static/js/main.59bc0eca.js",
     "static/media/fa-solid-900.svg": "/riya-portfolio/static/media/fa-solid-900.decfdcb63165be4a18b6.svg",
     "static/media/fa-brands-400.svg": "/riya-portfolio/static/media/fa-brands-400.d21386c92d7f4fbf03dc.svg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/riya-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -24,10 +24,10 @@
     "static/media/fa-regular-400.woff2": "/riya-portfolio/static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
     "index.html": "/riya-portfolio/index.html",
     "main.8e3dcfb1.css.map": "/riya-portfolio/static/css/main.8e3dcfb1.css.map",
-    "main.e631bfa1.js.map": "/riya-portfolio/static/js/main.e631bfa1.js.map"
+    "main.59bc0eca.js.map": "/riya-portfolio/static/js/main.59bc0eca.js.map"
   },
   "entrypoints": [
     "static/css/main.8e3dcfb1.css",
-    "static/js/main.e631bfa1.js"
+    "static/js/main.59bc0eca.js"
   ]
 }
