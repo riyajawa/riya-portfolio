@@ -36,7 +36,7 @@ export default function Intro() {
         </div>
         <div className="buttons">
           <div className="button" >
-            <a href="assets/myProfile.jpeg">See my resume</a></div>
+            <a href="assets/riya's Resume (2)-converted.pdf">See my resume</a></div>
             
             <div className="button2" >
             <a href="https://www.linkedin.com/in/riya-jawa">My linkedin</a></div>
